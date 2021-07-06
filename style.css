@@ -26,13 +26,17 @@ p {
     box-shadow: 3px 3px 20px #FBA24F;
 }
 
-nav {
+#head {
     text-align: center;
     box-shadow:0 2px 5px black;
 }
 
-nav img {
+#head img {
     width: 8%;
+}
+
+#git {
+    color: white;
 }
 
 .menu {
