@@ -1,4 +1,4 @@
-* {
+* { 
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
@@ -34,6 +34,7 @@ nav {
 nav img {
     width: 8%;
 }
+
 .menu {
     text-align: center;
     background-image: linear-gradient(-90deg, #FBA24F, #FF1E1E);
